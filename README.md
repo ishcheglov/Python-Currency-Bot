@@ -1,4 +1,4 @@
-# project-Python_Currency_Bot
+# project-Python-Currency-Bot
 ## Телеграмм бот с функцией конвертации валюты.
 
 
@@ -14,7 +14,7 @@
 
 - main- запуск программы
 
-- video
+- video(файл для заставки в /start)
 
 - .env, .env.template
 
